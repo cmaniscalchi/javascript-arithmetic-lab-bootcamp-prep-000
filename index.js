@@ -26,16 +26,16 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  return parseInt('n')
+  return parseInt('743')
 }
 
 function makeInt(n) {
-  return parseInt('n', 10)
+  return parseInt('0', 10)
 }
 
 function makeInt(n) {
   return parseInt('what?', 10)
 }
 function preserveDecimal(n) {
-  return parseFloat('n')
+  return parseFloat('2.222')
 }
