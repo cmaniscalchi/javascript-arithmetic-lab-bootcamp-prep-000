@@ -26,11 +26,13 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  return parseInt('743')
+  parseInt('n')
+  return n
 }
 
 function makeInt(n) {
-  return parseInt('0', 10)
+  parseInt('n', 10)
+  return n
 }
 
 function makeInt(n) {
