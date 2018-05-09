@@ -31,7 +31,7 @@ function makeInt(n) {
 }
 
 function makeInt(n) {
-  return parseInt(a, 10)
+  return parseInt('0.0001', 10)
 }
 
 function NaN() {
