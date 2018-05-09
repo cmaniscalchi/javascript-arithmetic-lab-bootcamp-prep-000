@@ -26,10 +26,6 @@ function dec(n) {
   return parseInt(n) - 1
 }
 
-parseInt(n)
-
-parseInt(n, 10)
-
 function inc(n) {
   return parseInt('sldkjflksjf')
 }
