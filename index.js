@@ -31,6 +31,13 @@ function makeInt(n) {
   return parseInt(n)
 }
 
+function milliseconds(x) {
+  if (isNaN(x)) {
+    return 'Not a Number!';
+  }
+  return x * 1000;
+}
+
 function makeInt(n) {
   return parseInt(a, 10)
 }
