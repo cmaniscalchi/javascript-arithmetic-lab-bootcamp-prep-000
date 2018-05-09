@@ -38,7 +38,8 @@ function makeInt(n) {
 }
 
 function makeInt(n) {
-  return parseInt('sldkjflksjf')
+   if (isNaN(parsed)) {return 0}
+    return parseInt('sldkjflksjf')
 }
 
 function preserveDecimal(n) {
