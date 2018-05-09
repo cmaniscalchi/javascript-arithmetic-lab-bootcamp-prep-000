@@ -36,11 +36,10 @@ function makeInt(a) {
 }
 
 function makeInt(a) {
-  parseInt(a, 10)
   if isNaN(a) {
     return 'NaN'
   }
-  return parseInt(a)
+  return parseInt(a, 10)
 }
 
 function preserveDecimal() {
