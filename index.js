@@ -18,15 +18,15 @@ function divide(a,b) {
   return a / b
 }
 
-function inc(n) {
-  return parseInt(n) + 1
+function inc(a) {
+  return parseInt(a) + 1
 }
 
-function dec(n) {
-  return parseInt(n) - 1
+function dec(a) {
+  return parseInt(a) - 1
 }
 
-function makeInt(n) {
+function makeInt(a) {
   return parseInt(a.toString())
 }
 
@@ -34,7 +34,7 @@ function makeInt(n) {
   return parseInt(a.toString())
 }
 
-function makeInt(n) {
+function makeInt(a) {
   return parseInt('sldkjflksjf')
 }
 
