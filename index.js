@@ -41,6 +41,7 @@ function makeInt(a) {
   return 'NaN'
 }
 
+
 function preserveDecimal() {
   return parseFloat('2.222')
 }
