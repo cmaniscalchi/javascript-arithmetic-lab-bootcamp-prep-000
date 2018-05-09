@@ -30,8 +30,8 @@ function inc(n) {
   return parseInt(n)
 }
 
-function makeInt(n) {
-  return parseInt('0.0001', 10)
+function inc(n) {
+  return parseInt(n, 10)
 }
 
 function makeInt(n) {
