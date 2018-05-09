@@ -22,6 +22,6 @@ function inc(n) {
 }
 
 function dec(n) {
-  return parseInt(n) + 1
+  return parseInt(n) - 1
 }
 
