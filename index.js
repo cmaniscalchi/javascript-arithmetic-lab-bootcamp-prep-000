@@ -27,9 +27,8 @@ function dec(a) {
 }
 
 function makeInt(n) {
-  toString()
-  var parsed = parseInt(n);
-  return parsed
+n.toString = function makeInt(n) 
+  return n
 }
 
 function makeInt(n) {
