@@ -35,7 +35,7 @@ function makeInt() {
   return parseInt(n, 10)
 }
 
-function makeInt(n) {
+function NaN() {
   return parseInt('sldkjflksjf')
 }
 
