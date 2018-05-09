@@ -39,7 +39,7 @@ function makeInt(a) {
   return parseInt(a, 10)
 }
   
-if (isNaN(a)) === true {
+if (isNaN(a)) = true {
   return 'NaN'
 }
 
