@@ -37,3 +37,10 @@ function makeInt(n) {
   return parseInt('what?', 10)
 }
 
+function preserveDecimal(n) {
+  
+}
+
+function preserveDecimal(n) {
+  
+}
