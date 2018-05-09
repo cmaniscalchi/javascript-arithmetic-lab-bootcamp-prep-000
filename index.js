@@ -37,6 +37,7 @@ function makeInt(a) {
 
 function makeInt(a) {
   return parseInt(a, 10)
+  if (isFinite)
   if (isNaN(a))=true {
     return 'NaN'
   }
