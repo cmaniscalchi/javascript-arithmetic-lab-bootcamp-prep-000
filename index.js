@@ -27,11 +27,11 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  parseInt(n)
+  parseInt(a)
 }
 
 function makeInt(n) {
-  parseInt(n, 10)
+  parseInt(a, 10)
 }
 
 function NaN() {
