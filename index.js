@@ -34,7 +34,7 @@ function inc(n) {
   return parseInt(n, 10)
 }
 
-function makeInt(n) {
+function inc(n) {
   return parseInt('sldkjflksjf')
 }
 
