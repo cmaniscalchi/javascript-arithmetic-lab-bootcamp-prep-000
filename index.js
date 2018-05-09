@@ -38,9 +38,9 @@ function makeInt(a) {
 function makeInt(a) {
   parseInt('sldkjflksjf')
   if (isNaN(a) {
-  return 'NaN'
-}
-
+    return 'NaN'
+    }
+  return parseInt
 
 function preserveDecimal() {
   return parseFloat('2.222')
