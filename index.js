@@ -40,14 +40,17 @@ function milliseconds(x) {
 
 function makeInt(n) {
   var parsed = parseInt(n);
-  if (isNaN(parsed)) { return 0 }
   return parsed
 }
 
 function makeInt(n) {
-  return parseInt('sldkjflksjf');
-  if (isNaN(parsed)) { return 0 }
-  return parsed * 100;
+  var parsed = parseInt(n, 10);
+  if (isNaN(parsed)) {return 0}
+  return parsed
+}
+
+function makeInt(n) {
+  return parseInt('sldkjflksjf')
 }
 
 function preserveDecimal(n) {
