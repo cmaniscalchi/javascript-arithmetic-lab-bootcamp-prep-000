@@ -35,7 +35,6 @@ function makeInt(a) {
 }
 
 function makeInt(n) {
-   if (isNaN(parsed)) {return 0}
     return parseInt('sldkjflksjf')
 }
 
