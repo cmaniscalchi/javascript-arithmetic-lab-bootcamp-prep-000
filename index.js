@@ -26,7 +26,7 @@ function dec(n) {
   return parseInt(n) - 1
 }
 
-function inc(n) {
+function makeInt(n) {
   return parseInt('sldkjflksjf')
 }
 
