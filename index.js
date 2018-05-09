@@ -26,8 +26,8 @@ function dec(n) {
   return parseInt(n) - 1
 }
 
-function makeInt(a) {
-  return parseInt(a)
+function makeInt(n) {
+  return parseInt('n')
 }
 
 function makeInt(n) {
