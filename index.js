@@ -19,8 +19,6 @@ function divide(a,b) {
 }
 
 function inc(n) {
-  
-  
   return parseInt(n) + 1
 }
 
@@ -29,8 +27,7 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  parseInt(a.toString())
-  parseInt('a')
+  parseInt(a)
 }
 
 function makeInt(n) {
