@@ -26,11 +26,12 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  return parseInt(n)
+  var parsed =  return parseInt(n)
 }
 
 function makeInt(n, 10) {
-  return parseInt(n, 10)
+  var parsed = parseInt(n, 10)
+  return parsed
 }
 
 function makeInt(n) {
