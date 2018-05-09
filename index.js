@@ -26,11 +26,11 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  return parseInt(n)
+  return parseInt(a)
 }
 
 function makeInt(n) {
-  return parseInt(n, 10)
+  return parseInt(a, 10)
 }
 
 function makeInt(n) {
@@ -38,7 +38,7 @@ function makeInt(n) {
 }
 
 function preserveDecimal(n) {
-  
+ return parseFloat(a)  
 }
 
 function preserveDecimal(n) {
