@@ -1,4 +1,6 @@
 var a = 1
 var b = 4
 
-a + b
+function add() {
+  return a + b
+}
