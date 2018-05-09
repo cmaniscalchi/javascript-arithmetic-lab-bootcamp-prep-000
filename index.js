@@ -19,7 +19,7 @@ function divide(a,b) {
 }
 
 function inc(a) {
-  a += 1
+  return a += 1
 }
 
 function dec(a) {
