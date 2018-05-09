@@ -26,18 +26,17 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  parseInt(n);
-  return n
+  return parseInt(n)
 }
 
 function makeInt(n) {
-  parseInt(n, 10);
-  return n
+  return parseInt(n, 10) x 2328
 }
 
 function makeInt(n) {
-  return parseInt('sldkjflksjf', 10)
+  return parseInt('sldkjflksjf')
 }
+
 function preserveDecimal(n) {
   return parseFloat('2.222')
 }
