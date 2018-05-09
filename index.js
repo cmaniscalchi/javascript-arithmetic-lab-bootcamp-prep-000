@@ -36,7 +36,7 @@ function makeInt(n) {
 }
 
 function makeInt(n) {
-  return parseInt('what?', 10)
+  return parseInt('sldkjflksjf', 10)
 }
 function preserveDecimal(n) {
   return parseFloat('2.222')
