@@ -39,11 +39,10 @@ function milliseconds(x) {
 }
 
 function makeInt(n) {
-  return parseInt(a, 10)
   
   function roughScale(x, base) {
-  var parsed = parseInt(x, base);
-  if (isNaN(parsed)) { return 0 }
+  var parsed = parseInt(n, 10);
+  if (isNaN(n)) { return 0 }
   return parsed * 100;
 }
 
@@ -53,6 +52,6 @@ function makeInt(a) {
   return parsed * 100;
 }
 
-function preserveDecimal() {
+function preserveDecimal(n) {
   return parseFloat('2.222')
 }
