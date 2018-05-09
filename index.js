@@ -39,10 +39,8 @@ function milliseconds(x) {
 }
 
 function makeInt(n) {
-  
-  function roughScale(x, base) {
   var parsed = parseInt(n, 10);
-  if (isNaN(n)) { return 0 }
+  if (isNaN(parsed)) { return 0 }
   return parsed * 100;
 }
 
