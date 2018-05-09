@@ -1,3 +1,8 @@
+function add() {
+  return a + b
+}
+
+
 1)  add(a, b) adds two numbers and returns the result:
      ReferenceError: add is not defined
       at Context.<anonymous> (test/index-test.js:9:3)
