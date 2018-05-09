@@ -32,7 +32,7 @@ function makeInt(n) {
 }
 
 function milliseconds(x) {
-  if (isNaN(x)) {
+  if (isNaN(n)) {
     return 'Not a Number!';
   }
   return x * 1000;
@@ -40,10 +40,17 @@ function milliseconds(x) {
 
 function makeInt(n) {
   return parseInt(a, 10)
+  
+  function roughScale(x, base) {
+  var parsed = parseInt(x, base);
+  if (isNaN(parsed)) { return 0 }
+  return parsed * 100;
 }
 
 function makeInt(a) {
-  return parseInt('sldkjflksjf')
+  return parseInt('sldkjflksjf');
+  if (isNaN(parsed)) { return 0 }
+  return parsed * 100;
 }
 
 function preserveDecimal() {
