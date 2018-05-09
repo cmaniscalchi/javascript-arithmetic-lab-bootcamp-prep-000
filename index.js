@@ -30,8 +30,8 @@ function makeInt(n) {
   return parsed
 }
 
-function makeInt(n, 10) {
-  var parsed = parseInt(n, 10)
+function makeInt(n) {
+  var parsed = parseInt('n', 10)
   return parsed
 }
 
@@ -39,5 +39,5 @@ function makeInt(n) {
   return parseInt('what?', 10)
 }
 function preserveDecimal(n) {
-  return parseFloat(n)
+  return parseFloat('n')
 }
