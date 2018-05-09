@@ -31,6 +31,10 @@ function makeInt(n) {
 }
 
 function makeInt(n) {
+  return parseInt(a.toString())
+}
+
+function makeInt(n) {
   return parseInt('sldkjflksjf')
 }
 
