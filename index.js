@@ -27,11 +27,11 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  return parseInt(n)
+  return parseInt(n.toString())
 }
 
 function makeInt(n) {
-  return parseInt(nx232, 10)
+  return parseInt(n.toString(), 10)
 }
 
 function makeInt(n) {
