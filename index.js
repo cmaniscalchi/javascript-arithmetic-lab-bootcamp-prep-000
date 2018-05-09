@@ -37,10 +37,10 @@ function makeInt(a) {
 
 function makeInt(a) {
   return parseInt(a, 10)
-  if (isFinite)
-  if (isNaN(a))=true {
-    return 'NaN'
-  }
+  if (isNaN(a)) === true {
+    console.log("The name is correct")
+    }
+  return 'NaN'
 }
 
 function preserveDecimal() {
