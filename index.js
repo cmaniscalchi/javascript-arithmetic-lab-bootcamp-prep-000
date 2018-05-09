@@ -41,10 +41,10 @@ function milliseconds(x) {
 function makeInt(n) {
   var parsed = parseInt(n, 10);
   if (isNaN(parsed)) { return 0 }
-  return parsed * 100;
+  return parsed
 }
 
-function makeInt(a) {
+function makeInt(n) {
   return parseInt('sldkjflksjf');
   if (isNaN(parsed)) { return 0 }
   return parsed * 100;
