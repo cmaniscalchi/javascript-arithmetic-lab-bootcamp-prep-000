@@ -36,3 +36,6 @@ function makeInt(n) {
 function makeInt(n) {
   return parseInt('what?', 10)
 }
+function preserveDecimal(n) {
+  return 
+}
