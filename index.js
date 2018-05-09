@@ -26,13 +26,9 @@ function dec(n) {
   return parseInt(n) - 1
 }
 
-function inc(n) {
-  return parseInt(n)
-}
+parseInt(n)
 
-function inc(n) {
-  return parseInt(n, 10)
-}
+parseInt(n, 10)
 
 function inc(n) {
   return parseInt('sldkjflksjf')
