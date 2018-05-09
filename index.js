@@ -18,11 +18,11 @@ function divide(a,b) {
 }
 
 function inc(n) {
-  parseInt(n)++
+  return parseInt(n) + 1
 }
 
 function dec(n) {
-  return parseInt(n)--
+  return parseInt(n) - 1
 }
 
 function makeInt(n) {
