@@ -25,7 +25,9 @@ function dec(n) {
   return parseInt(n) - 1
 }
 
-parseInt(n)
+function makeInt(n) {
+  return parseInt(n)
+}
 
 function makeInt(n) {
   return parseInt(n, 10)
@@ -34,3 +36,4 @@ function makeInt(n) {
 function makeInt(n) {
   return parseInt('what?', 10)
 }
+
