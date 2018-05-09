@@ -26,7 +26,7 @@ function dec(n) {
   return parseInt(n) - 1
 }
 
-function makeInt() {
+function makeInt(a.toString()) {
   return parseInt(n)
 }
 
