@@ -28,11 +28,11 @@ function dec(n) {
 
 function makeInt(n) {
   parseInt(a.toString())
-  return parseInt('a')
+  parseInt('a')
 }
 
 function makeInt(n) {
-  return parseInt(n, 10)
+  parseInt(n, 10)
 }
 
 function NaN() {
