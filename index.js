@@ -27,18 +27,6 @@ function dec(a) {
 }
 
 function makeInt(n) {
-  makeInt(a.toString())
-  return parseInt(n)
-}
-
-function milliseconds(x) {
-  if (isNaN(n)) {
-    return 'Not a Number!';
-  }
-  return x * 1000;
-}
-
-function makeInt(n) {
   var parsed = parseInt(n);
   return parsed
 }
